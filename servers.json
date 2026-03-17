@@ -1,1 +1,17 @@
 
+[
+  {
+    "name": "Germany Server",
+    "ip": "123.123.123.123",
+    "port": 51820,
+    "publicKey": "SERVER_PUBLIC_KEY",
+    "dns": "1.1.1.1"
+  },
+  {
+    "name": "US Server",
+    "ip": "234.234.234.234",
+    "port": 51820,
+    "publicKey": "SERVER_PUBLIC_KEY",
+    "dns": "1.1.1.1"
+  }
+]
